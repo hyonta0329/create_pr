@@ -13,6 +13,7 @@ ghe_uri = "https://api.github.com/repos/pyonta0329/create_pr/pulls"
 redmine_server = ""
 email = "pyonta.hyonta@gmail.com"
 username = "hyonta0329"
+# please enter your api key
 api_token = "xxxxxxxxxxxxxxxxxxxxxx"
 
 # section for functions
